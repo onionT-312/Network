@@ -1,4 +1,4 @@
-![Logo1](https://github.com/onionT-312/Network/blob/main/img/logo.jpeg)
+![Logo1](https://github.com/onionT-312/Network/blob/main/img/logo.png)
 
 # Socket programming
 This is the socket code that I made when studying computer networking at UET. Login address [112.137.129.129:8000](http://112.137.129.129:8000/)
